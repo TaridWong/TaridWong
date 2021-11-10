@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning R and Python.
 - 📫 How to reach me: wongvora@ualberta.ca 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaridWong)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 TaridWong/TaridWong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
