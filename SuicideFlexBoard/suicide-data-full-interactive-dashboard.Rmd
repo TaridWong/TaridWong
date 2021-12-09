@@ -4,7 +4,7 @@ title: "Suicide Data"
 # date: "June 13, 2019"
 output: 
   flexdashboard::flex_dashboard:
-    source_code: "https://github.com/SabaTavoosi/Suicide-data---Interactive-dashboard"
+    source_code: "https://github.com/TaridWong/TaridWong/tree/R/SuicideFlexBoard"
     vertical_layout: scroll
     theme: yeti
 ---
